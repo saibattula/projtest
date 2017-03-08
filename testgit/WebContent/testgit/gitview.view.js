@@ -6,6 +6,7 @@ sap.ui.jsview("testgit.gitview", {
 	*/ 
 	getControllerName : function() {
 		return "testgit.gitview";
+		//br2
 	},
 
 	/** Is initially called once after the Controller has been instantiated. It is the place where the UI is constructed. 
