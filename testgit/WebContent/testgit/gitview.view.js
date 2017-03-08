@@ -14,7 +14,7 @@ sap.ui.jsview("testgit.gitview", {
 	*/ 
 	createContent : function(oController) {
  		return new sap.m.Page({
-			title: "Git Page",
+			title: "Git Page Modify",
 			content: [
 			
 			]
