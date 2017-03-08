@@ -4,6 +4,8 @@ sap.ui.jsview("testgit.gitview", {
 	* In the case that it is not implemented, or that "null" is returned, this View does not have a Controller.
 	* @memberOf testgit.gitview
 	*/ 
+	
+	//br1
 	getControllerName : function() {
 		return "testgit.gitview";
 	},
